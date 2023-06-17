@@ -1,0 +1,1 @@
+print("Tech by Manan")
